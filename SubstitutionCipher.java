@@ -32,7 +32,7 @@ public class SubstitutionCipher{
     }
 
     public static void main(String[] args) {
-        String text = "HELLO WORLD";
+        String text = "The quick brown fox jumps over the lazy dog.";
         String encrypted = encrypt(text);
         String decrypted = decrypt(encrypted);
 

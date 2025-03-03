@@ -80,7 +80,7 @@ class Main {
     }
 
     public static void main(String[] args) {
-        String message = "PAY";
+        String message = "there are some fecilities to make things perfect";
         String key = "RRFVSVCCT";
 
         // Key matrix generation
